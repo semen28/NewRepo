@@ -1,1 +1,7 @@
+<<<<<<< Updated upstream
 test stash v1
+=======
+Hello
+Hello! Hello!
+>>>>>>> Stashed changes
+разбираюсь с коммандой stash
